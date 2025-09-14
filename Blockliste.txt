@@ -1,0 +1,19 @@
+# ---- Joyn Werbung ----
+adservice.google.com
+imasdk.googleapis.com
+pubads.g.doubleclick.net
+securepubads.g.doubleclick.net
+tpc.googlesyndication.com
+
+# ---- Amazon FireTV Werbung ----
+fls-na.amazon.com
+spectrum.s3.amazonaws.com
+atv-ext.amazon.com
+atv-ps.amazon.com
+device-metrics-us.amazon.com
+dp-discovery-na-ext.amazon.com
+
+# ---- Allgemeine Streaming-Ads ----
+ads.prd.ie.amazonvideo.com
+ads-eu.amazon.com
+ads.amazon.com
