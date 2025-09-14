@@ -1,19 +1,36 @@
-# ---- Joyn Werbung ----
-adservice.google.com
-imasdk.googleapis.com
-pubads.g.doubleclick.net
-securepubads.g.doubleclick.net
-tpc.googlesyndication.com
+! ---- Joyn Werbung ----
+||adservice.google.com^
+||imasdk.googleapis.com^
+||pubads.g.doubleclick.net^
+||securepubads.g.doubleclick.net^
+||tpc.googlesyndication.com^
+||sqrt-5041.de^
+||ad71.adfarm1.adition.com^
+||9478953.fls.doubleclick.net^
+||googleads.g.doubleclick.net^
 
-# ---- Amazon FireTV Werbung ----
-fls-na.amazon.com
-spectrum.s3.amazonaws.com
-atv-ext.amazon.com
-atv-ps.amazon.com
-device-metrics-us.amazon.com
-dp-discovery-na-ext.amazon.com
+! ---- Tracking & Social ----
+||bat.bing.com^
+||connect.facebook.net^
+||static.hotjar.com^
+||cdn-gl.nmrodam.com^
+||amplify.outbrain.com^
+||tr.outbrain.com^
+||alb.reddit.com^
+||cdn.segment.com^
+||o292998.ingest.sentry.io^
+||dmp.theadex.com^
+||analytics.tiktok.com^
 
-# ---- Allgemeine Streaming-Ads ----
-ads.prd.ie.amazonvideo.com
-ads-eu.amazon.com
-ads.amazon.com
+! ---- Amazon FireTV Werbung ----
+||fls-na.amazon.com^
+||spectrum.s3.amazonaws.com^
+||atv-ext.amazon.com^
+||atv-ps.amazon.com^
+||device-metrics-us.amazon.com^
+||dp-discovery-na-ext.amazon.com^
+
+! ---- Allgemeine Streaming-Ads ----
+||ads.prd.ie.amazonvideo.com^
+||ads-eu.amazon.com^
+||ads.amazon.com^
