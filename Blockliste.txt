@@ -104,3 +104,44 @@
 ||agf.de^
 ||nuggad.net^
 
+! ---- Ergänzungen aus aktuellem AdGuard-Log 2026-06-22 ----
+
+! Mobile Attribution / App Tracking
+||app.adjust.com^
+||adjust.com^
+
+! A/B-Testing / Personalisierung
+||kameleoon.eu^
+||kameleoon.io^
+||sdk-config.kameleoon.eu^
+||eu-data.kameleoon.io^
+
+! Werbe-ID / Identity / Data Broker
+||prod.euid.eu^
+||euid.eu^
+
+! Microsoft / App Telemetry
+||vortex.data.microsoft.com^
+||dcg.microsoft.com^
+
+! Mobile / App Analytics
+||region1.app-measurement.com^
+||app-measurement.com^
+||firebaselogging-pa.googleapis.com^
+
+! Moloco / Bidmachine / Mobile Ads
+||sdkeventfnt-eu.dsp-api.moloco.com^
+||dsp-api.moloco.com^
+||api.bidmachine.io^
+
+! Applovin / Axon
+||prod-mediate-events.applovin.com^
+||ms.applovin.com^
+||prod-e.axon.ai^
+||prod-e4.axon.ai^
+
+! Sonstige aus Log auffällige Ad-/Tracking-Domains
+||x.thecatmachine.com^
+||x.blueduckredapple.com^
+||x.everestop.io^
+
